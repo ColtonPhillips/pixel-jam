@@ -1,6 +1,10 @@
 import glob
 import os
 def main():
+	i = 0
+	for file in glob.glob("*.png"):
+		i = i + 1
+	print(i)
 	last_one = ""
 	for file in glob.glob("*.png"):
 		if last_one != "":
