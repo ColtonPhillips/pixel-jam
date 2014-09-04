@@ -1,4 +1,4 @@
 pixel-jam
 =========
 
-Keepy Uppy Pixel Jam for great good
+CC0 pixel art assets for games.
